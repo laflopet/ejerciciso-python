@@ -1,0 +1,3 @@
+Intentando escribir un fichero
+dos veces
+Agregando nuevo contenido al fichero
